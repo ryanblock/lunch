@@ -16,13 +16,11 @@ let body = `
   <body>
 
     <h1 class="center-text">
-      <!-- ↓ Change "Hello world!" to something else and head on back to Begin! -->
-      Hello world!
+      🥗
     </h1>
-
-    <p class="center-text">
-      Your <a href="https://begin.com" class="link" target="_blank">Begin</a> app is ready to go!
-    </p>
+    <h2 class="center-text">
+      Salad!
+    </h1>
 
   </body>
 </html>
