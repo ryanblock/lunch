@@ -19,7 +19,7 @@ let body = `
       🥗
     </h1>
     <h2 class="center-text">
-      Salad. Obvi!
+      Salad! Obvi.
     </h1>
 
   </body>
