@@ -3,6 +3,7 @@ start-af8
 
 @http
 get /
+get /okay
 
 @tables
 data
