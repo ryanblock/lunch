@@ -3,6 +3,9 @@
 //
 // let begin = require('@architect/functions')
 
+let foo = require('@architect/views/foo')
+
+
 let html = `
 <!doctype html>
 <html lang=en>
@@ -14,7 +17,7 @@ let html = `
   </head>
   <body>
     <h1 class="center-text">
-      Hello world!
+      ${foo[0]}
     </h1>
     <p class="center-text">
       Your new route is ready to go!
